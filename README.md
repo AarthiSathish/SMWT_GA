@@ -38,3 +38,6 @@ Population Initialization:
 Termination of Execution:
     Each run of the genetic algorithm involves 10,000 recombination operations. The execution is halted if the fitness value reaches 0 (maximum possible value as total tardiness     cannot be negative).
     For each instance, the genetic algorithm is run 5 times (mimicking random restart) and the best output out of these runs is reported.
+
+wt40.txt:
+    Contains the problem instances. Sourced from : http://people.brunel.ac.uk/~mastjjb/jeb/orlib/wtinfo.html
